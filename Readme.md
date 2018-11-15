@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Class1.cs](./CS/DataContext_Ex/Class1.cs) (VB: [Class1.vb](./VB/DataContext_Ex/Class1.vb))
+* [MainPage.xaml](./CS/DataContext_Ex/MainPage.xaml) (VB: [MainPage.xaml](./VB/DataContext_Ex/MainPage.xaml))
+<!-- default file list end -->
 # How to provide and use DataContexts for layout items and their controls
 
 
